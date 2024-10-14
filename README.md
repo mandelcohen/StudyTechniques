@@ -70,11 +70,24 @@ All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-bas
 - Another option is [Notation](https://www.notion.so) which is more of a workspace, rather than staring up notes you’re able to build your personal wiki and utilise a bunch of other functionalities like project planning.
 <br/>
 
-#### A huge advantage of using an application for your notes is the **search functionality** so you easily can find and retrieve the information you seek:
+### A huge advantage of using an application for your notes is the **search functionality** so you easily can find and retrieve the information you seek:
 <img width="1288" alt="SearchInBear" src="https://github.com/user-attachments/assets/a9cce5eb-ef40-43ba-9083-7099086ebfe3">
+<br/>
 
+## Use Markdown for descriptive READMEs for your projects:
+<br/>
 
+Example from the pathfinding workshop [here](https://github.com/forsbergsskola-se/gp23-Pathfinding-Mandel/blob/main/README.md).
+<br/><br/>
 
+## Resources on Markdown syntax:
+<br/>
+
+- GitHub guide [here](https://gist.github.com/nikhilnayyar002/7a35e653d3d590e317c829243e73b110nikhilnayyar002/7a35e653d3d590e317c829243e73b110%29).
+<br/>
+
+- Open source MarkdownGuide [here](https://www.markdownguide.orgnikhilnayyar002/7a35e653d3d590e317c829243e73b110%29%5D%28https://www.markdownguide.org%29).
+<br/>
 
 
 
