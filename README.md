@@ -92,12 +92,13 @@ Example from the pathfinding workshop [here](https://github.com/forsbergsskola-s
 <br/>
 
 
-## VISUAL CUES
+## MERMAID
 
-Mermaid diagrams are 
+Mermaid Diagrams is a JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 
 ### Mindmaps:
 
+An overview of the key subjects of the presentation:
 ```mermaid
 mindmap
   root((MINDMAP))
@@ -123,8 +124,27 @@ mindmap
       Effective<br/>note-taking
 ```
 
-### Sequense diagrams:
-
 ### Flowcharts
+
+Here is an exapmle of a turn-based game loop, like in NIM or Tic-Tac-Toe:
+```mermaid
+flowchart TD
+    Start([Start Game])
+    PlayerTurn([Player's Turn])
+    CheckWin{Check Win Condition}
+    CheckDraw{Check Draw Condition}
+    SwitchPlayer([Switch Player])
+    EndGame([End Game])
+    DeclareWinner([Declare Winner])
+    DeclareDraw([Declare Draw])
+
+    Start --> PlayerTurn
+    PlayerTurn --> CheckWin
+    CheckWin -- Yes --> DeclareWinner --> EndGame
+    CheckWin -- No --> CheckDraw
+    CheckDraw -- Yes --> DeclareDraw --> EndGame
+    CheckDraw -- No --> SwitchPlayer
+    SwitchPlayer --> PlayerTurn
+```
 
 
