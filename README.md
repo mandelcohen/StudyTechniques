@@ -71,8 +71,9 @@ All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-bas
 <br/>
 
 ### A huge advantage of using an application for your notes is the **search functionality** so you easily can find and retrieve the information you seek:
-<img width="1288" alt="SearchInBear" src="https://github.com/user-attachments/assets/a9cce5eb-ef40-43ba-9083-7099086ebfe3">
-<br/>
+<img width="1283" alt="searchInBear" src="https://github.com/user-attachments/assets/40f7902c-b58a-452b-bab2-9641567413d8">
+
+<br/><br/>
 
 ## Use Markdown for descriptive READMEs for your projects:
 <br/>
@@ -80,7 +81,8 @@ All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-bas
 Example from the pathfinding workshop [here](https://github.com/forsbergsskola-se/gp23-Pathfinding-Mandel/blob/main/README.md).
 <br/><br/>
 
-## Resources on Markdown syntax:
+## Resources on Markdown syntax
+
 <br/>
 
 - GitHub guide [here](https://gist.github.com/nikhilnayyar002/7a35e653d3d590e317c829243e73b110nikhilnayyar002/7a35e653d3d590e317c829243e73b110%29).
