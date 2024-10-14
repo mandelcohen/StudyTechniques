@@ -30,8 +30,6 @@ playerGold.compleated = ture;
 ```
 
 - Access a field using the **member-of-operator** `.` on the class instance (object) like so:  `playerGold.compleated`.
-
-_______
 <br/>
 
 #### You can make tables to track your progress:
@@ -44,20 +42,19 @@ _______
 | Inheritance     | …              |                       |
 | Composition     | …              |                       |
 
-<br/>
-
 #### or a task list:
 
 - [x] P1 
 - [x] P2 with notes
 - [ ] P3 
 
+##### to mention a few examples.
+_______
 <br/>
 
+### The best part, fill your notes with hyperlinks:
 
-#### And fill your notes with hyperlinks:
-
-All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-basics/tree/main), check out ScholarHat for further [reading](https://www.w3schools.com/cs/index.php) and there’s also the official language [documentation](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/) on Microsoft Learn.
+All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-basics/tree/main), check out ScholarHat for further [reading](https://www.w3schools.com/cs/index.php) and there’s also the official language [documentation](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/) on Microsoft Learn. 
 
 <br/><br/>
 
