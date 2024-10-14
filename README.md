@@ -57,7 +57,7 @@ _______
 
 #### And fill your notes with hyperlinks:
 
-All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-basics/tree/main), check out ScholarHat for further [reading](https://www.scholarhat.com/tutorial/csharp/csharp12-developer-roadmap) and there’s also the official language [documentation](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/) on Microsoft Learn.
+All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-basics/tree/main), check out ScholarHat for further [reading](https://www.w3schools.com/cs/index.php) and there’s also the official language [documentation](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/) on Microsoft Learn.
 
 <br/><br/>
 
@@ -146,5 +146,26 @@ flowchart TD
     CheckDraw -- No --> SwitchPlayer
     SwitchPlayer --> PlayerTurn
 ```
+
+### Sequence Diagram 
+
+Shows in what order things happen in a sequence from top to bottom:
+```mermaid
+sequenceDiagram
+    autonumber
+    participant User
+    participant LoginSystem
+    User->>LoginSystem: Enter username and password
+    alt Correct Credentials
+        LoginSystem->>User: Login Success
+    else Incorrect Credentials
+        LoginSystem->>User: Login Failed
+        loop Retry up to 3 times
+            User->>LoginSystem: Re-enter credentials
+        end
+        LoginSystem->>User: Block after 3 failed attempts
+    end
+```
+
 
 
