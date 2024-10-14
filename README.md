@@ -92,5 +92,39 @@ Example from the pathfinding workshop [here](https://github.com/forsbergsskola-s
 <br/>
 
 
+## VISUAL CUES
+
+Mermaid diagrams are 
+
+### Mindmaps:
+
+```mermaid
+mindmap
+  root((MINDMAP))
+    LEARNING
+      Encoding
+      Consolidation
+      Retriveal
+    TECHNIQUES
+      Elaboration
+        Use your<br/>own words
+        Connect to<br/>previous knowledge
+      Active Retriveal
+        Most effective
+        Use in combination<br/>with other techniques
+      Spaced Repitition
+        The forgetting curve
+        Take brakes
+      Chunking
+        Break in to<br/>smaller parts
+        Gain an overview
+    TOOLS
+      Menmory techniques
+      Effective<br/>note-taking
+```
+
+### Sequense diagrams:
+
+### Flowcharts
 
 
