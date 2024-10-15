@@ -101,23 +101,21 @@ An overview of the key subjects of the presentation:
 mindmap
   root((MINDMAP))
     LEARNING
-      Encoding
-      Consolidation
-      Retriveal
+      Encoding<br/>Consolidation<br/>Retriveal
     TECHNIQUES
       Elaboration
         Use your<br/>own words
         Connect to<br/>previous knowledge
       Active Retriveal
-        Most effective
+        Most effective!
         Use in combination<br/>with other techniques
       Spaced Repitition
-        The forgetting curve
+        The Forgetting Curve
       Chunking
         Break in to<br/>smaller parts
         Gain an overview
     TOOLS
-      Menmory techniques
+      Memory techniques
       Effective<br/>note-taking
 ```
 
