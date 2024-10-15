@@ -44,9 +44,9 @@ playerGold.compleated = ture;
 
 #### or a task list:
 
-- [x] P1 
-- [x] P2 with notes
-- [ ] P3 
+- [x] Classes/Objects (Need notes)
+- [x] Fields
+- [ ] Methods 
 
 ##### to mention a few examples.
 _______
