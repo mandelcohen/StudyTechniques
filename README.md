@@ -112,7 +112,6 @@ mindmap
         Use in combination<br/>with other techniques
       Spaced Repitition
         The forgetting curve
-        Take brakes
       Chunking
         Break in to<br/>smaller parts
         Gain an overview
