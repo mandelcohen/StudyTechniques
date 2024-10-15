@@ -54,7 +54,7 @@ _______
 
 ### The best part, fill your notes with hyperlinks:
 
-All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-basics/tree/main), check out this tutorial from W3 for further [reading](https://www.w3schools.com/cs/index.php) and there’s also the official language [documentation](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/) on Microsoft Learn. 
+All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-basics/tree/main), check out this tutorial from W3 for further [reading](https://www.w3schools.com/cs/cs_oop.php) and there’s also the official language [documentation](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/) on Microsoft Learn. 
 
 <br/><br/>
 
