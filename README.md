@@ -64,7 +64,7 @@ All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-bas
 - I use an app called [Bear](https://bear.app) where I use markdown to format my notes (only Mac). Equivalent options that works on all platforms are [UpNote](https://getupnote.com) or [Obsidian](https://obsidian.md).
 <br/>
 
-- Another option is [Notion](https://www.notion.so) which is more of a workspace, rather than staring up notes you’re able to build your personal wiki and utilise a bunch of other functionalities like project planning.
+- Another option is [Notion](https://www.notion.so) which is more of a workspace, rather than stacking up notes you’re able to build your personal wiki and utilise a bunch of other functionalities like project planning.
 <br/>
 
 ### A huge advantage of using an application for your notes is the **search functionality**:
