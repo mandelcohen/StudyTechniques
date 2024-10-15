@@ -67,7 +67,7 @@ All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-bas
 - Another option is [Notion](https://www.notion.so) which is more of a workspace, rather than staring up notes you’re able to build your personal wiki and utilise a bunch of other functionalities like project planning.
 <br/>
 
-### A huge advantage of using an application for your notes is the **search functionality** so you easily can find and retrieve the information you seek:
+### A huge advantage of using an application for your notes is the **search functionality**:
 <img width="1283" alt="searchInBear" src="https://github.com/user-attachments/assets/40f7902c-b58a-452b-bab2-9641567413d8">
 
 <br/><br/>
@@ -91,7 +91,8 @@ Example from the pathfinding workshop [here](https://github.com/forsbergsskola-s
 
 ## MERMAID
 
-Mermaid Diagrams is a JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
+Mermaid Diagrams is a JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically. Mermaid syntax described [here](https://mermaid.js.org/intro/syntax-reference.html) and a very handy live editor [here](https://mermaid.live/).
+<br/>
 
 ### Mindmaps:
 
