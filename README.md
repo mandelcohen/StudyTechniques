@@ -163,4 +163,7 @@ sequenceDiagram
 ```
 
 
+# DEBUGGING
+
+I really can't stress this enough, the debugger is you're best friend during your learning process! Familiarise yourselfes with Rider's Debugging [tool](https://www.jetbrains.com/help/rider/Debugging_Code.html) and use it often when developing console applications, attach it to [Unity](https://www.jetbrains.com/guide/gamedev/tutorials/rider-for-unity/debugging/) to fix bugs, and to verify that your code does exactly what it's supposed to.
 
