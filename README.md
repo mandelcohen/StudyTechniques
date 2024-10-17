@@ -144,7 +144,7 @@ flowchart TD
 
 ### Sequence Diagram 
 
-Shows in what order things happen in a sequence from top to bottom:
+Shows the order of a sequence from top to bottom:
 ```mermaid
 sequenceDiagram
     autonumber
