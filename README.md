@@ -81,7 +81,7 @@ All slides and assignments [here](https://github.com/marczaku/104-csharp-oop-bas
 ## Use Markdown for descriptive READMEs for your projects:
 <br/>
 
-We are often asked to create descriptive READMEs with our game projects as part of our assignments, these are a great addition to include in our portfolios. Here are a few exaples from the [Pathfinding](https://github.com/forsbergsskola-se/gp23-Pathfinding-Mandel/blob/main/README.md) workshop, SDL [Space Invaders](https://github.com/forsbergsskola-se/gp23-Pathfinding-Mandel/blob/main/README.md%5D%28https://github.com/forsbergsskola-se/gp23-203-opengl-game-magge/blob/main/README.md), and the [Unreal Game Project](https://github.com/mandelcohen/PURRPLEXED/blob/main/README.md).
+We are often asked to create descriptive READMEs with our game projects as part of our assignments, these are a great addition to include in our portfolios. Here are a few exaples from the [Pathfinding](https://github.com/forsbergsskola-se/gp23-Pathfinding-Mandel/blob/main/README.md) workshop, SDL [Space Invaders](https://github.com/forsbergsskola-se/gp23-203-opengl-game-magge/blob/main/README.md), and the [Unreal Game Project](https://github.com/mandelcohen/PURRPLEXED/blob/main/README.md).
 <br/><br/>
 
 ## Resources on Markdown syntax
