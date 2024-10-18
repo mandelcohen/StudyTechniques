@@ -1,5 +1,11 @@
 <h1 align="center">Tools for Effective Note-Taking</h1>
-<br/><br/><br/>
+<br/><br/>
+
+#### Table of contents:
+- Markdown
+- Mermaid
+- Debugging
+<br/><br/>
 
 ## MARKDOWN
 This is a README file where you can use markdown to gather notes under headers and sub-headers, inserting `code snippets` and highlighting the information that stands out to you. It’s a the simple and easy-to-use markup language you can use to format virtually any document.
