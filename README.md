@@ -16,26 +16,26 @@ This is a README file where you can use markdown to gather notes under headers a
 <br/><br/>
 _______
 
-### Fields
+### Fields in C#
 
-- Fields are just like variables, but tied to a **class instance**.
+- Fields are like variables, but they're tied to an instance of a class.
 
 ```cs
 public class Assignment {
-    public bool compleated;
+    public bool completed;
     public string description;
 }
 ```
 
-- To assign value to these fields, the class needs to be instantiated. This is where the **object** part comes in.
+- To assign values to these fields, the class needs to be instantiated. This is where objects come into play.
 
 ```cs
-Assignment playerGold = new{};
-playerGold.description = "Print the value of 200 gold to the console"
-playerGold.compleated = ture;
+Assignment playerGold = new();
+playerGold.description = "Print the value of 200 gold to the console";
+playerGold.completed = true;
 ```
 
-- Access a field using the **member-of-operator** `.` on the class instance (object) like so:  `playerGold.compleated`.
+- You can access a field using the **member access operator** `.` on the class instance (the object). For example: `playerGold.compleated`.
 <br/>
 
 #### You can make tables to track your progress:
