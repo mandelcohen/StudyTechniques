@@ -91,7 +91,7 @@ We are often asked to create descriptive READMEs with our game projects as part 
 - GitHub guide [here](https://gist.github.com/nikhilnayyar002/7a35e653d3d590e317c829243e73b110nikhilnayyar002/7a35e653d3d590e317c829243e73b110%29).
 <br/>
 
-- Open source MarkdownGuide [here](https://www.markdownguide.orgnikhilnayyar002/7a35e653d3d590e317c829243e73b110%29%5D%28https://www.markdownguide.org%29).
+- Open source MarkdownGuide [here](https://www.markdownguide.org/basic-syntax/).
 
 _______
 <br/>
