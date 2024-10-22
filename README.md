@@ -35,7 +35,7 @@ playerGold.description = "Print the value of 200 gold to the console";
 playerGold.completed = true;
 ```
 
-- You can access a field using the **member access operator** `.` on the class instance (the object). For example: `playerGold.compleated`.
+- You can access a field using the **member access operator** `.` on the class instance (the object). For example: `playerGold.compleated`. In this case, the completed field belongs to the playerGold object.
 <br/>
 
 #### You can make tables to track your progress:
